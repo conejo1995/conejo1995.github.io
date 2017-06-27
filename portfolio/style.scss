@@ -1,0 +1,41 @@
+body, html {
+  margin: 0;
+}
+
+header{
+  background: cyan;
+  height: 20em;
+  display:flex;
+  position: relative;
+	justify-content:center;
+	align-items:center;
+	flex-direction:column;
+  .name{
+    position: absolute;
+    font-size: 40px;
+    top: 0.1em;
+  }
+  .professions{
+    position: absolute;
+    font-size: 20px;
+    top: 7em;
+  }
+
+  .menu{
+	display: flex;
+  width: 25em;
+  position: absolute;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  top: 1em;
+  right: 2em;
+  }
+}
+
+a {
+	text-decoration:none;
+	color: White;
+  font-size: 20px;
+	transition:0.3s
+}
+

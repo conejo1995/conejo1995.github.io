@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$USER_HOME$/Desktop/Web_Bootcamp/.idea/Web_Bootcamp.iml" filepath="$USER_HOME$/Desktop/Web_Bootcamp/.idea/Web_Bootcamp.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/conejo1995.github.io.iml" filepath="$PROJECT_DIR$/.idea/conejo1995.github.io.iml" />
     </modules>
   </component>
