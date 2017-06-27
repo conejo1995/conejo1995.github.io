@@ -19,7 +19,7 @@ header {
     top: 7em; }
   header .menu {
     display: flex;
-    width: 25em;
+    width: 30em;
     position: absolute;
     flex-wrap: wrap;
     justify-content: space-around;
