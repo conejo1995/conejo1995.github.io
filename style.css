@@ -3,13 +3,13 @@ body, html {
 
 header {
   background-image: url("img1.jpg");
-  background-size: cover;
   height: 20em;
   display: flex;
   position: relative;
   justify-content: center;
   align-items: center;
-  flex-direction: column; }
+  flex-direction: column;
+  background-size: cover; }
   header .name {
     position: absolute;
     font-size: 40px;
