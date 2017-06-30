@@ -2,7 +2,7 @@ body, html {
   margin: 0; }
 
 header {
-  background-image: image("imgs/img1.jpg");
+  background-image: url("img1.jpg");
   height: 20em;
   display: flex;
   position: relative;

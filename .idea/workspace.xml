@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a03ac6c4-397a-49f4-8397-58d0090809d1" name="Default" comment="">
+      <change type="MOVED" beforePath="$PROJECT_DIR$/imgs/img1.jpg" afterPath="$PROJECT_DIR$/img1.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.css" afterPath="$PROJECT_DIR$/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.css.map" afterPath="$PROJECT_DIR$/style.css.map" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.scss" afterPath="$PROJECT_DIR$/style.scss" />
@@ -40,7 +41,7 @@
         <entry file="file://$PROJECT_DIR$/style.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
-              <caret line="5" column="42" lean-forward="false" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
+              <caret line="5" column="31" lean-forward="false" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -148,20 +149,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="conejo1995.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="conejo1995.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="imgs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -175,16 +162,17 @@
     <property name="list.type.of.created.stylesheet" value="SCSS" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Conner\Desktop\Web_Bootcamp\Labs\weather" />
-      <recent name="C:\Users\Conner\Desktop\Web_Bootcamp\Labs" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Conner\Desktop\Web_Bootcamp\Labs\dice_angry" />
       <recent name="C:\Users\Conner\Documents\githubPage\conejo1995.github.io\about" />
       <recent name="C:\Users\Conner\Documents\githubPage\conejo1995.github.io\contact" />
       <recent name="C:\Users\Conner\Documents\githubPage\conejo1995.github.io\gallery" />
       <recent name="C:\Users\Conner\Documents\githubPage\conejo1995.github.io\portfolio" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Conner\Documents\githubPage\conejo1995.github.io" />
+      <recent name="C:\Users\Conner\Desktop\Web_Bootcamp\Labs\weather" />
+      <recent name="C:\Users\Conner\Desktop\Web_Bootcamp\Labs" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -742,7 +730,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/imgs/img1.jpg">
+    <entry file="file://$PROJECT_DIR$/img1.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -750,7 +738,7 @@
     <entry file="file://$PROJECT_DIR$/style.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" column="42" lean-forward="false" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
+          <caret line="5" column="31" lean-forward="false" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
           <folding />
         </state>
       </provider>
