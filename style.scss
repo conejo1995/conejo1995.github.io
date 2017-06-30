@@ -1,10 +1,11 @@
 body, html {
   margin: 0;
+  background-color: #232323;
 }
 
 header{
   background-image: url('img1.jpg');
-
+  color: white;
   height: 20em;
   display:flex;
   position: relative;
@@ -19,11 +20,13 @@ header{
     position: absolute;
     font-size: 40px;
     top: 0.1em;
+    background-color: black;
   }
   .professions{
     position: absolute;
     font-size: 20px;
     top: 7em;
+    background-color: black;
   }
 
   .menu{
@@ -40,7 +43,13 @@ header{
 a {
 	text-decoration:none;
 	color: White;
-  font-size: 20px;
+    font-size: 20px;
 	transition:0.3s
+    background-color: black;
+}
+
+article{
+  background-color: #8a8a8a;
+  color: white;
 }
 
