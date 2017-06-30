@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a03ac6c4-397a-49f4-8397-58d0090809d1" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.css" afterPath="$PROJECT_DIR$/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.css.map" afterPath="$PROJECT_DIR$/style.css.map" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.scss" afterPath="$PROJECT_DIR$/style.scss" />
@@ -39,8 +40,8 @@
       <file leaf-file-name="style.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/style.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="2" lean-forward="false" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+            <state relative-caret-position="357">
+              <caret line="21" column="3" lean-forward="true" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -749,8 +750,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/style.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="2" lean-forward="false" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+        <state relative-caret-position="357">
+          <caret line="21" column="3" lean-forward="true" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
           <folding />
         </state>
       </provider>
