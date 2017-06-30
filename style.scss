@@ -8,10 +8,13 @@ header{
   height: 20em;
   display:flex;
   position: relative;
-	justify-content:center;
-	align-items:center;
-	flex-direction:column;
-  background-size:cover;
+  justify-content:center;
+  align-items:center;
+  flex-direction:column;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
   .name{
     position: absolute;
     font-size: 40px;

@@ -9,6 +9,9 @@ header {
   justify-content: center;
   align-items: center;
   flex-direction: column;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
   background-size: cover; }
   header .name {
     position: absolute;
