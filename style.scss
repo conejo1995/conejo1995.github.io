@@ -3,7 +3,7 @@ body, html {
 }
 
 header{
-  background-image:url("imgs/img1.jpg");
+  background-image: image('imgs/img1.jpg');
   height: 20em;
   display:flex;
   position: relative;
