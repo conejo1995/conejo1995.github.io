@@ -2,7 +2,7 @@ body, html {
   margin: 0; }
 
 header {
-  background-image: url("https://github.com/conejo1995/conejo1995.github.io/blob/master/imgs/img1.jpg?raw=true");
+  background-image: url("imgs/img1.jpg");
   height: 20em;
   display: flex;
   position: relative;
